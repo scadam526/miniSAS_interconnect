@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Molex_0757830132")(type "KiCad")(uri "${KIPRJMOD}/library/ul_757830132/KiCAD/2022-04-26_13-22-07/footprints.pretty")(options "")(descr ""))
+  (lib (name "Samtec_TSW-116-08-G-D-RA")(type "KiCad")(uri "${KIPRJMOD}/library/ul_TSW-116-08-G-D-RA/KiCAD/2022-04-26_13-35-13/footprints.pretty")(options "")(descr ""))
+  (lib (name "Molex_757840140")(type "KiCad")(uri "${KIPRJMOD}/library/ul_757840140/KiCAD/2022-04-26_18-14-35/footprints.pretty")(options "")(descr ""))
+  (lib (name "QTH-020-01-X-D-DP-A")(type "KiCad")(uri "${KIPRJMOD}/library/QTH-020-01-X-D-DP-A")(options "")(descr ""))
+)
